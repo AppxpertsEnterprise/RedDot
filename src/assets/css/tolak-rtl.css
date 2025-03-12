@@ -3398,7 +3398,7 @@ h6 {
 
 .footer-widget__title {
   font-size: 22px;
-  color: var(--tolak-white, #fff);
+  color: var(--tolak-white, #ffffff);
   text-transform: capitalize;
   margin: 0;
   margin-bottom: 36px;
@@ -3465,7 +3465,7 @@ h6 {
 
 .footer-widget__links li {
   font-size: 16px;
-  color: var(--tolak-text-dark, #b7b7b7);
+  color:  #ffffff;
   line-height: 41px;
 }
 
@@ -3479,9 +3479,9 @@ h6 {
   background-size: 100% 1px;
 }
 
-.footer-widget__links li a:hover {
+/* .footer-widget__links li a:hover {
   color: var(--tolak-base, #ED1B24);
-}
+} */
 
 .footer-widget--last {
   display: flex;

@@ -93,7 +93,7 @@ const Footer = () => {
                     <Col md={6} lg={4}>
                         <div className="footer-widget footer-widget--about-Reddot">
                             <h2 className="footer-widget__title">About Reddot</h2>
-                            <p>
+                            <p style={{color:"#ffffff"}}>
                                 Reddot is a leading software development company dedicated to delivering 
                                 innovative solutions for businesses of all sizes. Our expertise spans web and 
                                 mobile applications, cloud computing, AI, and enterprise software solutions. 
