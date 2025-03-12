@@ -78,7 +78,7 @@ const HomeSection = () => {
             </h1>
 
             <p className="font-light text-gray-400 text-md md:text-lg leading-normal mb-12">
-            Reddot Enterprise Solutions is a Software Development company <br />which offers next-generation IT Services that could empower your <br /> businesses to become self-reliant and sufficient. 
+            Reddot Technologies is a Software Development company <br />which offers next-generation IT Services that could empower your <br /> businesses to become self-reliant and sufficient. 
             </p>
 
             <button className="px-6 py-4 bg-info font-semibold text-white text-lg rounded-xl hover:bg-blue-700 transition ease-in-out duration-500">

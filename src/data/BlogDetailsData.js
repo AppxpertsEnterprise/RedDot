@@ -57,7 +57,7 @@ export const blogDetailsData = {
     },
   },
   title:
-    "Reddot Enterprise Solutions: Your One-Stop Digital Partner",
+    "Reddot Technologies: Your One-Stop Digital Partner",
   paragraphs: [
     "Reddot is a one-stop solution offering a wide range of services, including Software Development, Digital Marketing, Branding, and Resource Outsourcing.",
     "We cater to a diverse array of industries, such as Healthcare, Financial Services, Logistics, E-commerce, Wholesale, Retail, Manufacturing, and other key sectors.",

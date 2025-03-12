@@ -117,7 +117,7 @@ const Footer = () => {
                     <Row className="align-items-center">
                         <Col md={6} className="text-center text-md-start">
                             <p className="main-footer__copyright">
-                                &copy; {year} Reddot Enterprise Solutions. All Rights Reserved.
+                                &copy; {year} Reddot Technologies. All Rights Reserved.
                             </p>
                         </Col>
                         <Col md={6} className="text-center text-md-end">

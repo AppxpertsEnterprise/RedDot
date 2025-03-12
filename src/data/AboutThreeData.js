@@ -19,7 +19,7 @@ const aboutThreeData = {
   percentage: 45,
   tagLine: "Our About Now",
   title: "Shaping the future by empowering business with smart technologies",
-  text: "Reddot Enterprise Solutions is a Software Development company which offers next-generation IT Services that could empower your businesses to become self-reliant and sufficient. It’s what we do, and we do it well. We address our clients’ unique needs with a healthy mix of tried and true methods, and progressive, innovative technologies evinced by our team of expert software developers. We pride ourselves in our ability to turn the most complex business requirements into intuitive software solutions, empowering our clients with the tools they need to seamlessly support and enhance their business operations. Whether a project requires.",
+  text: "Reddot Technologies is a Software Development company which offers next-generation IT Services that could empower your businesses to become self-reliant and sufficient. It’s what we do, and we do it well. We address our clients’ unique needs with a healthy mix of tried and true methods, and progressive, innovative technologies evinced by our team of expert software developers. We pride ourselves in our ability to turn the most complex business requirements into intuitive software solutions, empowering our clients with the tools they need to seamlessly support and enhance their business operations. Whether a project requires.",
   lists: ["Company and Research", "Business and research"],
   skillTitle: "Solution Business",
   skillText: "Level is high",

@@ -10,7 +10,7 @@ const mainSliderOneData = [
         id: 1,
         shape,
         bg: bg1,
-        subTitle: "Welcome to Reddot Enterprise Solutions!",
+        subTitle: "Welcome to Reddot Technologies!",
         title: "Innovate Your Business<br> with Our Tech Soluti<span>o</span>ns",
         text: "Empowering enterprises with advanced software development services tailored to meet your business needs.",
         social: [
@@ -24,7 +24,7 @@ const mainSliderOneData = [
         id: 2,
         shape,
         bg: bg2,
-        subTitle: "Welcome to Reddot Enterprise Solutions!",
+        subTitle: "Welcome to Reddot Technologies!",
         title: "Custom Solutions<br> to Drive Growth",
         text: "Transform your ideas into powerful software solutions that scale with your business.",
         social: [
@@ -38,7 +38,7 @@ const mainSliderOneData = [
         id: 3,
         shape,
         bg: bg3,
-        subTitle: "Welcome to Reddot Enterprise Solutions!",
+        subTitle: "Welcome to Reddot Technologies!",
         title: "End-to-End<br> Software Development",
         text: "Delivering next-generation IT solutions for startups and enterprises with creativity and precision.",
         social: [
