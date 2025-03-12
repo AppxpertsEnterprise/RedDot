@@ -40,8 +40,8 @@ const FooterTwo = ({ pageTitle }) => {
               <a href='index.html' className='footer-widget__logo'>
                 <Image
                   src={footerLogo}
-                  width={184}
-                  style={{ height: "auto" }}
+                  width={200}
+                  style={{ height: "170" }}
                   alt='Tolak NextJS Template'
                 />
               </a>

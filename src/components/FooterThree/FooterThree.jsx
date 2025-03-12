@@ -29,7 +29,7 @@ const Footer = () => {
                     <Col md={6} lg={4}>
                         <div className="footer-widget footer-widget--about">
                             <Link href="/" className="footer-widget__logo">
-                                <Image src={logo} width={160} height={160} alt="Reddot Logo" />
+                                <Image src={logo} width={200} height={170} alt="Reddot Logo" />
                             </Link>
                             <ul className="footer-widget__info">
                                 <li>

@@ -8,7 +8,7 @@ const { icons } = headerData;
 
 const TopBar = () => {
     return (
-        <div style={{ background: '#001f3f', padding: '10px 0',paddingLeft: '25px', color: '#ffffff', width: '100vw' }}>
+        <div style={{ background: '#000000', padding: '10px 0',paddingLeft: '25px', color: '#ffffff', width: '100vw' }}>
             <div style={{ display: 'flex', justifyContent: 'flex-end', alignItems: 'center', maxWidth: '100%', padding: '0 50px' }}>
                 {/* Right-aligned: Location, Call, Email */}
                 <ul style={{ display: 'flex', gap: '20px', listStyle: 'none', margin: 0, padding: 0 }}>

@@ -23,8 +23,8 @@ const HeaderInnerCloned = () => {
               <Image
                 src={logo_light}
                 alt='Tolak HTML'
-                width={150}
-                style={{ height: "150" }}
+                width={200}
+                style={{ height: "200" }}
               />
             </Link>
           </div>

@@ -35,8 +35,8 @@ const FooterSix = () => {
               <Link href='/' className='footer-widget__logo'>
                 <Image
                   src={logo6}
-                  width={184}
-                  style={{ height: "auto" }}
+                  width={200}
+                  style={{ height: "170" }}
                   alt='Tolak NextJS Template'
                 />
               </Link>

@@ -24,8 +24,8 @@ const HeaderInner = () => {
               <Image
                 src={logo_light}
                 alt='Tolak HTML'
-                width={184}
-                style={{ height: "auto" }}
+                width={200}
+                style={{ height: "200" }}
               />
             </Link>
           </div>
