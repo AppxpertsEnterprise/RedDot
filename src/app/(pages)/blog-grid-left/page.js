@@ -9,7 +9,7 @@ import PageHeader from '@/components/PageHeader/PageHeader';
 import React from 'react';
 
 export const metadata = {
-    title: "Appxperts Enterprise solution.",
+    title: "Reddot Enterprise solution.",
    
 };
 const page = () => {

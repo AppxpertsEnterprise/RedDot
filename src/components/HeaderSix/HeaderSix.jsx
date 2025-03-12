@@ -18,7 +18,7 @@ const HeaderSix = () => {
             <Container >
                 <div className="main-header-six__inner">
                     <div className="main-header-six__logo">
-                        <Link href='/Appxperts'>
+                        <Link href='/Reddot'>
                             <Image
                                 src={logo5}
                                 alt='Tolak HTML'

@@ -9,7 +9,7 @@ import PageHeader from '@/components/PageHeader/PageHeader';
 import React from 'react';
 
 export const metadata = {
-    title: "Appxperts Enterprise solution.",
+    title: "Reddot Enterprise solution.",
    
 };
 
@@ -21,7 +21,7 @@ const page = () => {
 
             <PageHeader 
     title={<span style={{ fontSize: "28px", fontWeight: "700", color: "#ffffff", textAlign: "center" }}>
-        Smart Solutions, Stronger Businesses – Powered by Appxperts.
+        Smart Solutions, Stronger Businesses – Powered by Reddot.
     </span>}
 />
 

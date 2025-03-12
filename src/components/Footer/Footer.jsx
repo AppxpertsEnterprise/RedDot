@@ -5,7 +5,7 @@ import Link from 'next/link';
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
 
-const { logo, footerBg, shape, widgetInfo, widgetSocial, footerAbout, services, quickLinks, aboutAppxperts, bottomLinks } = footerData;
+const { logo, footerBg, shape, widgetInfo, widgetSocial, footerAbout, services, quickLinks, aboutReddot, bottomLinks } = footerData;
 
 const Footer = () => {
     const year = new Date().getFullYear();
@@ -29,7 +29,7 @@ const Footer = () => {
                     <Col md={6} lg={4}>
                         <div className="footer-widget footer-widget--about">
                             <Link href="/" className="footer-widget__logo">
-                                <Image src={logo} width={160} height={160} alt="Appxperts Logo" />
+                                <Image src={logo} width={160} height={160} alt="Reddot Logo" />
                             </Link>
                             <ul className="footer-widget__info">
                                 <li>
@@ -56,7 +56,7 @@ const Footer = () => {
                                 ))}
                             </div>
                             <div className="footer-widget__image">
-                                <Image src={footerAbout} alt="About Appxperts" />
+                                <Image src={footerAbout} alt="About Reddot" />
                             </div>
                         </div>
                     </Col>
@@ -89,18 +89,18 @@ const Footer = () => {
                         </div>
                     </Col>
 
-                    {/* About Appxperts */}
+                    {/* About Reddot */}
                     <Col md={6} lg={4}>
-                        <div className="footer-widget footer-widget--about-appxperts">
-                            <h2 className="footer-widget__title">About Appxperts</h2>
+                        <div className="footer-widget footer-widget--about-Reddot">
+                            <h2 className="footer-widget__title">About Reddot</h2>
                             <p>
-                                Appxperts is a leading software development company dedicated to delivering 
+                                Reddot is a leading software development company dedicated to delivering 
                                 innovative solutions for businesses of all sizes. Our expertise spans web and 
                                 mobile applications, cloud computing, AI, and enterprise software solutions. 
                                 We prioritize client satisfaction and cutting-edge technology to drive success.
                             </p>
                             <ul className="list-unstyled footer-widget__links">
-                                {aboutAppxperts.map(({ id, title, href }) => (
+                                {aboutReddot.map(({ id, title, href }) => (
                                     <li key={id}>
                                         <Link href={href}>{title}</Link>
                                     </li>
@@ -117,7 +117,7 @@ const Footer = () => {
                     <Row className="align-items-center">
                         <Col md={6} className="text-center text-md-start">
                             <p className="main-footer__copyright">
-                                &copy; {year} Appxperts Enterprise Solutions. All Rights Reserved.
+                                &copy; {year} Reddot Enterprise Solutions. All Rights Reserved.
                             </p>
                         </Col>
                         <Col md={6} className="text-center text-md-end">

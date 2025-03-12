@@ -4,7 +4,7 @@ const projectDetailsFaqData = {
   accordionData: [
     {
       id: 1,
-      title: "What services does AppXperts Enterprise Solutions offer?",
+      title: "What services does Reddot Enterprise Solutions offer?",
       content:
         "We specialize in providing IT solutions, including ERP, CRM, HRMS, eCommerce platforms, hospital management systems, and school management software tailored to meet diverse business needs.",
     },
@@ -22,7 +22,7 @@ const projectDetailsFaqData = {
     },
     {
       id: 4,
-      title: "Why should you choose AppXperts Enterprise Solutions?",
+      title: "Why should you choose Reddot Enterprise Solutions?",
       content:
         "We combine innovation with industry expertise to deliver scalable, user-friendly, and cost-effective solutions that help businesses thrive in a competitive market.",
     },

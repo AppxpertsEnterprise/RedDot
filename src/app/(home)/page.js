@@ -7,7 +7,7 @@ import HeroSection from "@/components/HeroSection/HeroSection";
 
 
 export const metadata = {
-  title: "Appxperts Enterprise Solution.",
+  title: "Reddot Enterprise Solution.",
  };
 
 

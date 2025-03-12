@@ -1,4 +1,4 @@
-import AppxpertsImg from "@/assets/images/tolak-landing/home-1.jpg";
+import ReddotImg from "@/assets/images/tolak-landing/home-1.jpg";
 import home2Img from "@/assets/images/tolak-landing/home-2.jpg";
 import home3Img from "@/assets/images/tolak-landing/home-3.jpg";
 import home4Img from "@/assets/images/tolak-landing/home-4.jpg";
@@ -13,13 +13,13 @@ export const demoOneData = [
 
     {
         id: 1,
-        image: AppxpertsImg,
+        image: ReddotImg,
         alt: "Home Page 01",
         title: "Home Page 01",
         buttons: [
-            { href: "Appxperts", label: "Multi Page" },
-            { href: "Appxperts-one", label: "One Page" },
-            { href: "Appxperts-dark", label: "Dark Page" },
+            { href: "Reddot", label: "Multi Page" },
+            { href: "Reddot-one", label: "One Page" },
+            { href: "Reddot-dark", label: "Dark Page" },
         ],
     },
     {

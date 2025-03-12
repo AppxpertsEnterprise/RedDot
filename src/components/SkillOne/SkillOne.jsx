@@ -76,14 +76,14 @@ const SkillOne = () => {
                       //           // pathTransition: 'none',
 
                       //           // Colors
-                      //           pathColor: "#3d72fc",
+                      //           pathColor: "#ED1B24",
                       //           textColor: "#39484a",
                       //           backgroundColor: "#c8c8c8",
                       //         })}
                       //       /> */}
                       //     </div>
                       //     {/* <div className="graph-outer">
-                      //                 <input type="text" className="dial" data-fgColor="#3d72fc" data-bgColor="#c8c8c8" data-width="60" data-height="60" data-linecap="normal" value="45">
+                      //                 <input type="text" className="dial" data-fgColor="#ED1B24" data-bgColor="#c8c8c8" data-width="60" data-height="60" data-linecap="normal" value="45">
                       //                 <div className="inner-text count-box">
                       //                     <span className="count-text" data-stop="45" data-speed="2000"></span><span className="count-Parsent">%</span>
                       //                 </div>
@@ -98,7 +98,7 @@ const SkillOne = () => {
                     {/* <div className="skill-one__content__skill">
                               <div className="progress-box">
                                   <div className="graph-outer">
-                                      <input type="text" className="dial" data-fgColor="#3d72fc" data-bgColor="#c8c8c8" data-width="60" data-height="60" data-linecap="normal" value="45">
+                                      <input type="text" className="dial" data-fgColor="#ED1B24" data-bgColor="#c8c8c8" data-width="60" data-height="60" data-linecap="normal" value="45">
                                       <div className="inner-text count-box">
                                           <span className="count-text" data-stop="45" data-speed="2000"></span><span className="count-Parsent">%</span>
                                       </div>
@@ -110,7 +110,7 @@ const SkillOne = () => {
                           <div className="skill-one__content__skill">
                               <div className="progress-box">
                                   <div className="graph-outer">
-                                      <input type="text" className="dial" data-fgColor="#3d72fc" data-bgColor="#c8c8c8" data-width="60" data-height="60" data-linecap="normal" value="85">
+                                      <input type="text" className="dial" data-fgColor="#ED1B24" data-bgColor="#c8c8c8" data-width="60" data-height="60" data-linecap="normal" value="85">
                                       <div className="inner-text count-box">
                                           <span className="count-text" data-stop="85" data-speed="2000"></span><span className="count-Parsent">%</span>
                                       </div>

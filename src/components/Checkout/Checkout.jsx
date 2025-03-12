@@ -56,14 +56,14 @@ const customStyles = {
         fontWeight: '400',
         padding: '15px 30px',
         color: state.isSelected ? 'var(--tolak-white, #fff)' : 'var(--tolak-text, #636363)',
-        backgroundColor: state.isSelected ? 'var(--tolak-base, #3d72fc)' : 'var(--tolak-gray, #ecf2fc)',
+        backgroundColor: state.isSelected ? 'var(--tolak-base, #ED1B24)' : 'var(--tolak-gray, #ecf2fc)',
         border: "none",
         borderTop: '1px solid var(--tolak-border-color, #dddddd)', // Adds a top border
         transition: 'all 0.4s ease',
         WebkitTransition: 'all 0.4s ease',
 
         '&:hover': {
-            backgroundColor: 'var(--tolak-base, #3d72fc)',
+            backgroundColor: 'var(--tolak-base, #ED1B24)',
             color: 'var(--tolak-white, #fff)',
 
         },

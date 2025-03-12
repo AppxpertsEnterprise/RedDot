@@ -19,7 +19,7 @@ const HeaderThreeSingleCloned = () => {
         <div className='main-header-three__inner'>
           <div className='main-header-three__logo'>
 
-            <Link href='/Appxperts'>
+            <Link href='/Reddot'>
 
               <Image
                 src={main_logo}

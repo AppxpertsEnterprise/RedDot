@@ -10,7 +10,7 @@ const CtaTwo = ({ two, rtl }) => {
         <section className="cta-two">
             <div className="cta-two__shape" style={{ backgroundImage: `url(${shape.src})` }}></div>
             <Container >
-                <div className="cta-two__bg" style={{ backgroundImage: `url(${rtl ? bgRtl.src : bg.src})` }}>
+                <div className="cta-two__bg" /* style={{ backgroundImage: `url(${rtl ? bgRtl.src : bg.src})` }} */>
                     <Row>
                         <Col lg={4} className=" wow fadeInLeft" data-aos="fade-right" data-aos-delay="100">
                             <div className="cta-two__info" style={{ backgroundImage: `url(${infoBg.src})` }}>

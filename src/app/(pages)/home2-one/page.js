@@ -20,7 +20,7 @@ import WorkProcessOne from "@/components/WorkProcessOne/WorkProcessOne";
 import React from "react";
 
 export const metadata = {
-    title: "Appxperts Enterprise Solution.",
+    title: "Reddot Enterprise Solution.",
    
   };
 const page = () => {

@@ -24,7 +24,7 @@ const serviceTwoData = {
             icon: "icon-ads-campaign",
             title: "ERP Software Development",
 
-            text: "AppXperts provides powerful and reliable ERP software development services.",
+            text: "Reddot provides powerful and reliable ERP software development services.",
 
             href: "business-solution"
         },

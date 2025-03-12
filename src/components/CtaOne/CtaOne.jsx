@@ -25,10 +25,10 @@ const CtaOne = ({ rtl, page }) => {
     return (
         <section className={`${page ? "cta-one--reverse" : "cta-one"}`}>
             <div className="cta-one__bg">
-                {
+  {/*               {
                     page ? null : <div className="cta-one__bg__shape-left" style={{ backgroundImage: `url(${rtl ? shapeLeftRtl.src : shapeLeft.src})` }}></div>
 
-                }
+                } */}
                 <div className="cta-one__bg__shape" style={{ backgroundImage: `url(${rtl ? shapeRtl.src : page ? shapeRtl.src : shape.src})` }}></div>
             </div>
             <Container >

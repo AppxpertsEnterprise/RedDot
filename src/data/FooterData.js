@@ -27,8 +27,8 @@ import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
 const widgetSocial = [
   { id: 1, icon: faFacebookF, href: "https://www.facebook.com/AppXes", title: "Facebook" },
-  { id: 2, icon: faInstagram, href: "https://www.instagram.com/appxperts.solutions/", title: "Instagram" },
-  { id: 3, icon: faLinkedin, href: "https://www.linkedin.com/company/appxperts-enterprise-solutions/", title: "LinkedIn" },
+  { id: 2, icon: faInstagram, href: "https://www.instagram.com/Reddot.solutions/", title: "Instagram" },
+  { id: 3, icon: faLinkedin, href: "https://www.linkedin.com/company/Reddot-enterprise-solutions/", title: "LinkedIn" },
   { id: 4, icon: faWhatsapp, href: "https://wa.me/+918825528905", title: "WhatsApp" },
   { id: 5, icon: faEnvelope, href: "mailto:info@appxes.com", title: "Mail" },
 ];
@@ -94,7 +94,7 @@ const footerData = {
   aboutTwoText:
     "We are a cutting-edge software solutions provider, delivering high-quality products with a focus on innovation and client satisfaction.",
   widgetText:
-    "Appxperts offers industry-leading software solutions, specializing in web and mobile development, cloud services, and enterprise solutions.",
+    "Reddot offers industry-leading software solutions, specializing in web and mobile development, cloud services, and enterprise solutions.",
   widgetInfo: {
     time: "Open Hours:\n Mon - Sat: 10.00 am - 7.00 pm",
     timeIcon: "icofont-clock-time",
@@ -118,7 +118,7 @@ const footerData = {
     { id: 3, href: "/contact", title: "Contact" },
     { id: 4, href: "/blog-grid-right", title: "Blog" },
   ],
-  aboutAppxperts: [
+  aboutReddot: [
    /*  { id: 1, href: "/about", title: "Who We Are" }, */
     /* { id: 2, href: "/contact", title: "Contact Us" }, */
   ],

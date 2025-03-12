@@ -51,6 +51,12 @@ const Sidebar = () => {
               Dubai
             </Link>
           </li>
+          <li>
+            <span className="fas fa-map-marker-alt"></span>  
+            <Link href="https://google/maps" target="_blank">
+              USA
+            </Link>
+          </li>
 
           <li>
             <span className="fas fa-envelope"></span>  
@@ -63,7 +69,7 @@ const Sidebar = () => {
             <FontAwesomeIcon icon={faFacebookF} />
             <span className="sr-only">Facebook</span>
           </Link>
-          <Link href="https://www.instagram.com/appxperts.solutions/" target="_blank">
+          <Link href="https://www.instagram.com/Reddot.solutions/" target="_blank">
             <FontAwesomeIcon icon={faInstagram} />
             <span className="sr-only">Instagram</span>
           </Link>
@@ -71,7 +77,7 @@ const Sidebar = () => {
             <FontAwesomeIcon icon={faWhatsapp} />
             <span className="sr-only">WhatsApp</span>
           </Link>
-          <Link href="https://www.linkedin.com/company/appxperts-enterprise-solutions/" target="_blank">
+          <Link href="https://www.linkedin.com/company/Reddot-enterprise-solutions/" target="_blank">
             <FontAwesomeIcon icon={faLinkedin} />
             <span className="sr-only">LinkedIn</span>
           </Link>

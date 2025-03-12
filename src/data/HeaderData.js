@@ -159,7 +159,7 @@ const navItems = [
 
 
 const social = [
-  { id: 1, icon: faInstagram, link: "https://instagram.com/appxperts.solution", name: "Instagram", target: "_blank" },
+  { id: 1, icon: faInstagram, link: "https://instagram.com/Reddot.solution", name: "Instagram", target: "_blank" },
   { id: 2, icon: faWhatsapp, link: "https://wa.me/+918825528905", name: "WhatsApp", target: "_blank" },
   { id: 3, icon: faFacebookF, link: "https://facebook.com/AppXes", name: "Facebook", target: "_blank" },
 ];
@@ -225,14 +225,14 @@ const headerData = {
     {
       id: 1,
       icon: faEnvelope,
-      content: "info@appxperts.com", // Updated email
-      subHref: "mailto:info@appxperts.com",
+      content: "info@Reddot.com", // Updated email
+      subHref: "mailto:info@Reddot.com",
     },
     {
       id: 2,
       icon: faMapMarkerAlt,
       content: "INDIA",
-      href: "https://www.google.com/maps/place/AppXperts+Enterprise+Solutions/@12.9098612,80.1933659,17z/",
+      href: "https://www.google.com/maps/place/Reddot+Enterprise+Solutions/@12.9098612,80.1933659,17z/",
     },
     {
       id: 3,
@@ -248,6 +248,12 @@ const headerData = {
     },
     {
       id: 5,
+      icon: faMapMarkerAlt,
+      content: "USA",
+      href: "https://www.google.com/maps",
+    },
+    {
+      id: 6,
       icon: faPhone,  
       content: "Call", // Updated call content
       href: "tel:+918825528905",  

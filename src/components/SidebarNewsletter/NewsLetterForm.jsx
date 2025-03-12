@@ -40,7 +40,7 @@ const NewsLetterForm = ({ mail, ctaThree }) => {
     setIsSubmitting(true);
   
     try {
-      const response = await fetch("https://appxperts.onrender.com/subscriber", {
+      const response = await fetch("https://Reddot.onrender.com/subscriber", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email }),

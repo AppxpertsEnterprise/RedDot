@@ -1,0 +1,81 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[3]!./src/components/GalleryOne/galleryone.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************/
+.galleryone_galleryOne__oFU8Q {
+    padding: 50px 0;
+    background-color: #f8f9fa;
+  }
+  
+  .galleryone_masonryLayout__gn_an {
+    display: flex;
+    margin-left: -15px;
+    width: auto;
+    gap: 20px;
+  }
+  
+  .galleryone_galleryItem__0ZOtv {
+    padding-left: 15px;
+    margin-bottom: 30px;
+  }
+  
+  .galleryone_galleryCard__ZUlhL {
+    position: relative;
+    overflow: hidden;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    border: 3px solid transparent;
+  }
+  
+  .galleryone_galleryCard__ZUlhL:hover {
+    transform: scale(1.08);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+    border-color: #007bff;
+  }
+  
+  .galleryone_trendingImage__irZfg {
+    border-radius: 12px;
+    width: 100%;
+    height: auto;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  
+  @keyframes galleryone_borderPulse__F38qO {
+    0% { border-color: #007bff; }
+    50% { border-color: #ff4081; }
+    100% { border-color: #007bff; }
+  }
+  
+  .galleryone_galleryCard__ZUlhL:hover {
+    animation: galleryone_borderPulse__F38qO 1.5s infinite alternate;
+  }
+  
+  .galleryone_text-center__9sOsd {
+    margin-top: 30px;
+  }
+  
+
+ 
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[12].use[3]!./node_modules/react-lazy-load-image-component/src/effects/blur.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************/
+.lazy-load-image-background.blur {
+  filter: blur(15px);
+}
+
+.lazy-load-image-background.blur.lazy-load-image-loaded {
+  filter: blur(0);
+  transition: filter .3s;
+}
+
+.lazy-load-image-background.blur > img {
+  opacity: 0;
+}
+
+.lazy-load-image-background.blur.lazy-load-image-loaded > img {
+  opacity: 1;
+  transition: opacity .3s;
+}
+

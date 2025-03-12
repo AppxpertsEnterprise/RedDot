@@ -22,19 +22,19 @@ const sidebarData = {
   ],
   recentPosts: [
     {
-      image: { src: post1, alt: "AppXperts" },
+      image: { src: post1, alt: "Reddot" },
       date: "Aug 10, 2023",
       title: "We play chimney pot Chip bonne.",
       href: "/blog-details-right",
     },
     {
-      image: { src: post2, alt: "AppXperts" },
+      image: { src: post2, alt: "Reddot" },
       date: "Aug 10, 2023",
       title: "Get deep knowledge of your business",
       href: "/blog-details-right",
     },
     {
-      image: { src: post3, alt: "AppXperts" },
+      image: { src: post3, alt: "Reddot" },
       date: "Aug 10, 2023",
       title: "Innovative digital solutions",
       href: "/blog-details-right",
@@ -51,15 +51,15 @@ export const blogDetailsData = {
       href: "/blog-grid",
     },
     date: {
-      author: "AppXperts Solutions",
+      author: "Reddot Solutions",
       date: "Jan 30, 2025",
       href: "/blog-grid",
     },
   },
   title:
-    "AppXperts Enterprise Solutions: Your One-Stop Digital Partner",
+    "Reddot Enterprise Solutions: Your One-Stop Digital Partner",
   paragraphs: [
-    "AppXperts is a one-stop solution offering a wide range of services, including Software Development, Digital Marketing, Branding, and Resource Outsourcing.",
+    "Reddot is a one-stop solution offering a wide range of services, including Software Development, Digital Marketing, Branding, and Resource Outsourcing.",
     "We cater to a diverse array of industries, such as Healthcare, Financial Services, Logistics, E-commerce, Wholesale, Retail, Manufacturing, and other key sectors.",
     "With a blend of technical expertise and creativity, we specialize in developing innovative mobile and web applications tailored to meet the unique needs of each industry.",
   ],
@@ -85,13 +85,13 @@ export const blogDetailsData = {
     text:
       "We specialize in delivering innovative software and creative marketing solutions to drive business growth.",
     author: {
-      name: "AppXperts Team",
+      name: "Reddot Team",
       designation: "CEO",
       image: authorImage,
       social: [
         {
           name: "Instagram",
-          href: "https://instagram.com/appxperts.solutions",
+          href: "https://instagram.com/Reddot.solutions",
           icon: "fab fa-instagram",
         },
         {
@@ -101,7 +101,7 @@ export const blogDetailsData = {
         },
         {
           name: "LinkedIn",
-          href: "https://linkedin.com/company/appxperts-enterprise-solutions/",
+          href: "https://linkedin.com/company/Reddot-enterprise-solutions/",
           icon: "fab fa-linkedin",
         },
         {
@@ -117,7 +117,7 @@ export const blogDetailsData = {
       image: commentImage1,
       name: "John Doe",
       date: "January 16, 2025 at 10:45 am",
-      text: "AppXperts transformed our business with their tailored software solutions.",
+      text: "Reddot transformed our business with their tailored software solutions.",
       replyHref: "/blog-details-right",
     },
     {

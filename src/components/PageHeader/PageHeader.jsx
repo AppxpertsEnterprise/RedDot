@@ -8,7 +8,7 @@ const PageHeader = ({ title, subTitle }) => {
     <section className='page-header'>
       <div className='page-header__bg'></div>
       <div className='page-header__shape'></div>
-      <div className='page-header__shape-two'></div>
+     {/*  <div className='page-header__shape-two'></div> */}
 
       <div className='container'>
         <div className='row'>
@@ -18,7 +18,7 @@ const PageHeader = ({ title, subTitle }) => {
               <ul className='tolak-breadcrumb list-unstyled'>
                 <li>
 
-                  <Link href='/Appxperts'>Home</Link>
+                  <Link href='/Reddot'>Home</Link>
 
                 </li>
                 {/* <li>

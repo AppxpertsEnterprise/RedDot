@@ -47,6 +47,10 @@ const contactTwoData = {
           name: "SINGAPORE",
           link: "https://www.google.com/maps",
         },
+        {
+          name: "USA",
+          link: "https://www.google.com/maps",
+        },
       ],
     },
   ],
