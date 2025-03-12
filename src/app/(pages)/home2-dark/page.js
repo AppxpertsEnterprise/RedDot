@@ -21,7 +21,7 @@ import TopbarTwo from "@/components/TopbarTwo/TopbarTwo";
 import WorkProcessOne from "@/components/WorkProcessOne/WorkProcessOne";
 
 export const metadata = {
-    title: "Reddot Enterprise Solution.",
+    title: "Reddot Technologies.",
    
   };
 const Page = () => {

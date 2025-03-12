@@ -23,7 +23,7 @@ import Footer from "@/components/Footer/Footer";
 
 
 export const metadata = {
-  title: "Reddot Enterprise Solution.",
+  title: "Reddot Technologies.",
  
 };
 

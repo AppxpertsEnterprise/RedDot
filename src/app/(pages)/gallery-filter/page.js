@@ -11,7 +11,7 @@ import PageHeader from '@/components/PageHeader/PageHeader';
 import React from 'react';
 
 export const metadata =  {
-    title: "Reddot Enterprise Solution.",
+    title: "Reddot Technologies.",
    
   };
 

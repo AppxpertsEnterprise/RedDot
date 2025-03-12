@@ -25,7 +25,7 @@ import Footer from "@/components/Footer/Footer";
 import HeaderCloned from "@/components/Header/HeaderCloned";
 
 export const metadata =  {
-    title: "Reddot Enterprise Solution.",
+    title: "Reddot Technologies.",
    
   };
 

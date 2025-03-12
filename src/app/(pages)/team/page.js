@@ -10,7 +10,7 @@ import TeamOnePage from '@/components/TeamOnePage/TeamOnePage';
 import React from 'react';
 
 export const metadata = {
-    title: "Reddot Enterprise Solution.",
+    title: "Reddot Technologies.",
    
   };
   
