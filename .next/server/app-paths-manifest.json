@@ -1,0 +1,4 @@
+{
+  "/(pages)/Reddot/page": "app/(pages)/Reddot/page.js",
+  "/(pages)/technology-services/page": "app/(pages)/technology-services/page.js"
+}

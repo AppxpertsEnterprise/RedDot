@@ -1,0 +1,21 @@
+{
+  "pages": {
+    "/(pages)/Reddot/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(pages)/Reddot/page.css",
+      "static/chunks/app/(pages)/Reddot/page.js"
+    ],
+    "/(pages)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(pages)/layout.css",
+      "static/chunks/app/(pages)/layout.js"
+    ],
+    "/(pages)/technology-services/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(pages)/technology-services/page.js"
+    ]
+  }
+}
