@@ -98,8 +98,8 @@ const footerData = {
   widgetInfo: {
     time: "Open Hours:\n Mon - Sat: 10.00 am - 7.00 pm",
     timeIcon: "icofont-clock-time",
-    location: "No 32, 2nd Floor, Swathika Flats, Rukmani Nagar, Perumbakkam, Chennai 600100",
-    locationIcon: "icofont-location-pin",
+   // location: "No 32, 2nd Floor, Swathika Flats, Rukmani Nagar, Perumbakkam, Chennai 600100",
+    //locationIcon: "icofont-location-pin",
     tel: "+91 8825528905",
     telIcon: "icofont-phone",
     subHref: "tel",

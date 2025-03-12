@@ -1,8 +1,7 @@
 {
-  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(pages)/project/page": "app/(pages)/project/page.js",
   "/(pages)/blog-details/page": "app/(pages)/blog-details/page.js",
   "/(pages)/gallery/page": "app/(pages)/gallery/page.js",
-  "/(pages)/project/page": "app/(pages)/project/page.js",
-  "/(pages)/about/page": "app/(pages)/about/page.js",
-  "/(pages)/Reddot/page": "app/(pages)/Reddot/page.js"
+  "/(pages)/project-details/page": "app/(pages)/project-details/page.js",
+  "/(pages)/about/page": "app/(pages)/about/page.js"
 }

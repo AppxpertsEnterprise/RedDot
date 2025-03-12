@@ -1,7 +1,7 @@
 import shape from "@/assets/images/shapes/about-3-shape-1.png";
 import shape2 from "@/assets/images/shapes/about-3-shape-2.png";
 
-import author from "@/assets/images/resources/about-3-author.jpg";
+import author from "@/assets/images/loader.png";
 import aboutSign from "@/assets/images/resources/about-sign.png";
 import image1 from "@/assets/images/resources/about-3-1.jpg";
 import image2 from "@/assets/images/resources/about-3-2.jpg";
