@@ -1,7 +1,0 @@
-{
-  "/(pages)/project/page": "app/(pages)/project/page.js",
-  "/(pages)/project-details/page": "app/(pages)/project-details/page.js",
-  "/(pages)/about/page": "app/(pages)/about/page.js",
-  "/(pages)/Reddot/page": "app/(pages)/Reddot/page.js",
-  "/(pages)/contact/page": "app/(pages)/contact/page.js"
-}
