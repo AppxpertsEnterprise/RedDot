@@ -1,10 +1,10 @@
 {
   "pages": {
-    "/(pages)/Reddot/page": [
+    "/(pages)/home5-one/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/(pages)/Reddot/page.css",
-      "static/chunks/app/(pages)/Reddot/page.js"
+      "static/css/app/(pages)/home5-one/page.css",
+      "static/chunks/app/(pages)/home5-one/page.js"
     ],
     "/(pages)/layout": [
       "static/chunks/webpack.js",
@@ -12,10 +12,16 @@
       "static/css/app/(pages)/layout.css",
       "static/chunks/app/(pages)/layout.js"
     ],
-    "/(pages)/technology-services/page": [
+    "/(pages)/Reddot/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/(pages)/technology-services/page.js"
+      "static/css/app/(pages)/Reddot/page.css",
+      "static/chunks/app/(pages)/Reddot/page.js"
+    ],
+    "/_not-found/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/_not-found/page.js"
     ]
   }
 }

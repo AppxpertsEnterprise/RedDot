@@ -3385,7 +3385,7 @@ h6 {
   margin: -115px 0 0;
   padding: 0;
   max-width: 327px;
-  background-color: var(--tolak-black4, #1b272a);
+  background-color: #ffffff;
   border-radius: 6px 6px 0 0;
 }
 
@@ -3443,7 +3443,7 @@ h6 {
 
 .footer-widget__info li {
   font-size: 16px;
-  color: var(--tolak-text-dark, #b7b7b7);
+  color: #000000;
   line-height: 28px;
   position: relative;
   padding-left: 26px;
@@ -3493,7 +3493,8 @@ h6 {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: var(--tolak-black, #051d1f);
+  
+  background-color: var(--tolak-base, #ED1B24);
   font-size: 15px;
   color: var(--tolak-white, #fff);
   transition: all 500ms ease;
@@ -3501,7 +3502,7 @@ h6 {
 }
 
 .footer-widget__social a:hover {
-  background-color: var(--tolak-base, #ED1B24);
+  background-color: var(--tolak-black, #051d1f);
   color: var(--tolak-white, #fff);
 }
 

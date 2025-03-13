@@ -1,4 +1,4 @@
-import logo from "@/assets/images/logo-light.png";
+import logo from "@/assets/images/logo-dark.png";
 import footerLogo from "@/assets/images/footer-logo.png";
 import logo4 from "@/assets/images/logo-4.png";
 import logo6 from "@/assets/images/logo-6.png";
@@ -98,8 +98,8 @@ const footerData = {
   widgetInfo: {
     time: "Open Hours:\n Mon - Sat: 10.00 am - 7.00 pm",
     timeIcon: "icofont-clock-time",
-   // location: "No 32, 2nd Floor, Swathika Flats, Rukmani Nagar, Perumbakkam, Chennai 600100",
-    //locationIcon: "icofont-location-pin",
+    location: "India, Singapore, Dubai, USA ",
+    locationIcon: "icofont-location-pin",
     tel: "+91 8825528905",
     telIcon: "icofont-phone",
     subHref: "tel",
