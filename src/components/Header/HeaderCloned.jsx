@@ -30,7 +30,7 @@ const HeaderCloned = ({ dark, rtl }) => {
       <Container fluid>
         <div className="main-header__inner">
           <div className="main-header__logo">
-            <Link href="/Reddot">
+            <Link href="/RedDot">
               <Image
                 src={dark ? logo_light : rtl ? logo_rtl : main_logo}
                 alt="Tolak HTML"
@@ -56,7 +56,7 @@ const HeaderCloned = ({ dark, rtl }) => {
               <span></span>
               <span></span>
             </div>
-
+{/* 
             <Link href="#" onClick={toggleSidebar} className="main-header__toggler">
               <span></span>
               <span></span>
@@ -67,12 +67,31 @@ const HeaderCloned = ({ dark, rtl }) => {
               <span></span>
               <span></span>
               <span></span>
-            </Link>
+            </Link> */}
 
-            <Link href="/packages" className="tolak-btn main-header__btn">
-              <b>Discover More</b>
-              <span></span>
-            </Link>
+<Link 
+  href="/packages" 
+  className="tolak-btn main-header__btn" 
+  style={{
+    display: "inline-block",
+    padding: "12px 30px",
+    borderRadius: "50px",
+    backgroundColor: "#DF2A16",
+    color: "white",
+    fontWeight: "bold",
+    fontSize: "16px",
+    border: "none",
+    cursor: "pointer",
+    transition: "all 0.3s ease-in-out",
+    textAlign: "center",
+    textDecoration: "none",
+    outline: "none"
+  }}
+>
+  <b>Discover More</b>
+  <span></span>
+</Link>
+
           </div>
         </div>
       </Container>

@@ -5,11 +5,14 @@ import Link from 'next/link';
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
 
-const { logo, footerBg, shape, widgetInfo, widgetSocial, footerAbout, services, quickLinks, aboutReddot, bottomLinks } = footerData;
+// Importing FontAwesome Icons
+import { faMapMarkerAlt, faPhone } from '@fortawesome/free-solid-svg-icons';
+
+const { logo, footerBg, shape, widgetInfo, widgetSocial, footerAbout, services, quickLinks, aboutRedDot, bottomLinks } = footerData;
 
 const Footer = () => {
     const year = new Date().getFullYear();
-    
+
     return (
         <footer className="main-footer background-black">
             {/* Background Styling */}
@@ -17,10 +20,10 @@ const Footer = () => {
                 className="main-footer__bg background-black"
                 style={{ backgroundImage: `url(${footerBg.src})` }}
             ></div>
-            <div 
+            {/* <div 
                 className="main-footer__shape"
                 style={{ backgroundImage: `url(${shape.src})` }}
-            ></div>
+            ></div> */}
 
             <Container>
                 <Row className="gy-4">
@@ -29,24 +32,27 @@ const Footer = () => {
                     <Col md={6} lg={4}>
                         <div className="footer-widget footer-widget--about">
                             <Link href="/" className="footer-widget__logo">
-                                <Image src={logo} width={200} height={170} alt="Reddot Logo" />
+                                <Image src={logo} width={160} height={160} alt="RedDot Logo" />
                             </Link>
                             <ul className="footer-widget__info">
+                                {/* Locations */}
+                                {widgetInfo.locations.map(({ country, mapLink }, index) => (
+                                    <li key={index}>
+                                        <FontAwesomeIcon icon={faMapMarkerAlt} style={{ color: "#DF2A16", marginRight: "8px" }} />
+                                        <Link href={mapLink} target="_blank" rel="noopener noreferrer">
+                                            {country}
+                                        </Link>
+                                    </li>
+                                ))}
+                                {/* Phone Number */}
                                 <li>
-                                    <span className={widgetInfo.timeIcon}></span>
-                                    {widgetInfo.time.split("\n").map((t, i) => (
-                                        <React.Fragment key={i}>{t} <br /></React.Fragment>
-                                    ))}
-                                </li>
-                                <li>
-                                    <span className={widgetInfo.locationIcon}></span>
-                                    {widgetInfo.location}
-                                </li>
-                                <li>
-                                    <span className={widgetInfo.telIcon}></span>
-                                    <Link href={`${widgetInfo.subHref}:${widgetInfo.tel}`}>{widgetInfo.tel}</Link>
+                                    {/* <FontAwesomeIcon  style={{ color: "blue", marginRight: "8px" }} />
+                                    <Link href={`${widgetInfo.subHref}:${widgetInfo.tel}`}>
+                                        {widgetInfo.tel}
+                                    </Link> */}
                                 </li>
                             </ul>
+                            {/* Social Icons */}
                             <div className="footer-widget__social">
                                 {widgetSocial.map(({ id, href, icon, title }) => (
                                     <Link href={href} target="_blank" rel="noopener noreferrer" key={id} className="social-icon">
@@ -55,8 +61,9 @@ const Footer = () => {
                                     </Link>
                                 ))}
                             </div>
+                            {/* Footer About Image */}
                             <div className="footer-widget__image">
-                                <Image src={footerAbout} alt="About Reddot" />
+                                <Image src={footerAbout} alt="About RedDot" />
                             </div>
                         </div>
                     </Col>
@@ -89,18 +96,18 @@ const Footer = () => {
                         </div>
                     </Col>
 
-                    {/* About Reddot */}
+                    {/* About RedDot */}
                     <Col md={6} lg={4}>
-                        <div className="footer-widget footer-widget--about-Reddot">
-                            <h2 className="footer-widget__title">About Reddot</h2>
+                        <div className="footer-widget footer-widget--about-RedDot">
+                            <h2 className="footer-widget__title">About RedDot</h2>
                             <p style={{color:"#ffffff"}}>
-                                Reddot is a leading software development company dedicated to delivering 
+                                RedDot is a leading software development company dedicated to delivering 
                                 innovative solutions for businesses of all sizes. Our expertise spans web and 
                                 mobile applications, cloud computing, AI, and enterprise software solutions. 
                                 We prioritize client satisfaction and cutting-edge technology to drive success.
                             </p>
                             <ul className="list-unstyled footer-widget__links">
-                                {aboutReddot.map(({ id, title, href }) => (
+                                {aboutRedDot.map(({ id, title, href }) => (
                                     <li key={id}>
                                         <Link href={href}>{title}</Link>
                                     </li>
@@ -117,7 +124,7 @@ const Footer = () => {
                     <Row className="align-items-center">
                         <Col md={6} className="text-center text-md-start">
                             <p className="main-footer__copyright">
-                                &copy; {year} Reddot Technologies. All Rights Reserved.
+                                &copy; {year} RedDot Technologiess. All Rights Reserved.
                             </p>
                         </Col>
                         <Col md={6} className="text-center text-md-end">

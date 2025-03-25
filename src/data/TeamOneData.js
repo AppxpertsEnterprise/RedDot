@@ -14,10 +14,10 @@ const teamOneData = {
             id: 1,
             image: image1,
             socials: [
-                { id: 1, icon: faFacebookF, link: "https://facebook.com", name: "Facebook" },
+                { id: 1, icon: faFacebookF, link: "https://www.facebook.com/reddottechnologies", name: "Facebook" },
                 { id: 2, icon: faPinterestP, link: "https://pinterest.com", name: "Pinterest" },
                 { id: 3, icon: faTwitter, link: "https://twitter.com", name: "Twitter" },
-                { id: 4, icon: faInstagram, link: "https://instagram.com", name: "Instagram" },
+                { id: 4, icon: faInstagram, link: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==", name: "Instagram" },
             ], title: "Lorata Barsa",
             href: "team-details",
             designation: "Founder"
@@ -28,10 +28,10 @@ const teamOneData = {
             id: 2,
             image: image2,
             socials: [
-                { id: 1, icon: faFacebookF, link: "https://facebook.com", name: "Facebook" },
+                { id: 1, icon: faFacebookF, link: "https://www.facebook.com/reddottechnologies", name: "Facebook" },
                 { id: 2, icon: faPinterestP, link: "https://pinterest.com", name: "Pinterest" },
                 { id: 3, icon: faTwitter, link: "https://twitter.com", name: "Twitter" },
-                { id: 4, icon: faInstagram, link: "https://instagram.com", name: "Instagram" },
+                { id: 4, icon: faInstagram, link: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==", name: "Instagram" },
             ], title: "Moras Batas",
             href: "team-details",
             designation: "Manager"
@@ -42,10 +42,10 @@ const teamOneData = {
             id: 3,
             image: image3,
             socials: [
-                { id: 1, icon: faFacebookF, link: "https://facebook.com", name: "Facebook" },
+                { id: 1, icon: faFacebookF, link: "https://www.facebook.com/reddottechnologies", name: "Facebook" },
                 { id: 2, icon: faPinterestP, link: "https://pinterest.com", name: "Pinterest" },
                 { id: 3, icon: faTwitter, link: "https://twitter.com", name: "Twitter" },
-                { id: 4, icon: faInstagram, link: "https://instagram.com", name: "Instagram" },
+                { id: 4, icon: faInstagram, link: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==", name: "Instagram" },
             ], title: "Korata Mana",
             href: "team-details",
             designation: "Founder"
@@ -56,10 +56,10 @@ const teamOneData = {
             id: 4,
             image: image4,
             socials: [
-                { id: 1, icon: faFacebookF, link: "https://facebook.com", name: "Facebook" },
+                { id: 1, icon: faFacebookF, link: "https://www.facebook.com/reddottechnologies", name: "Facebook" },
                 { id: 2, icon: faPinterestP, link: "https://pinterest.com", name: "Pinterest" },
                 { id: 3, icon: faTwitter, link: "https://twitter.com", name: "Twitter" },
-                { id: 4, icon: faInstagram, link: "https://instagram.com", name: "Instagram" },
+                { id: 4, icon: faInstagram, link: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==", name: "Instagram" },
             ], title: "Christine Eve",
             href: "team-details",
             designation: "Founder"
@@ -70,10 +70,10 @@ const teamOneData = {
             id: 5,
             image: image5,
             socials: [
-                { id: 1, icon: faFacebookF, link: "https://facebook.com", name: "Facebook" },
+                { id: 1, icon: faFacebookF, link: "https://www.facebook.com/reddottechnologies", name: "Facebook" },
                 { id: 2, icon: faPinterestP, link: "https://pinterest.com", name: "Pinterest" },
                 { id: 3, icon: faTwitter, link: "https://twitter.com", name: "Twitter" },
-                { id: 4, icon: faInstagram, link: "https://instagram.com", name: "Instagram" },
+                { id: 4, icon: faInstagram, link: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==", name: "Instagram" },
             ], title: "David Copers",
             href: "team-details",
             designation: "Manager"
@@ -84,10 +84,10 @@ const teamOneData = {
             id: 6,
             image: image6,
             socials: [
-                { id: 1, icon: faFacebookF, link: "https://facebook.com", name: "Facebook" },
+                { id: 1, icon: faFacebookF, link: "https://www.facebook.com/reddottechnologies", name: "Facebook" },
                 { id: 2, icon: faPinterestP, link: "https://pinterest.com", name: "Pinterest" },
                 { id: 3, icon: faTwitter, link: "https://twitter.com", name: "Twitter" },
-                { id: 4, icon: faInstagram, link: "https://instagram.com", name: "Instagram" },
+                { id: 4, icon: faInstagram, link: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==", name: "Instagram" },
             ], title: "Kevin Martin",
             href: "team-details",
             designation: "Founder"

@@ -26,31 +26,31 @@ const contactTwoData = {
       id: 2,
       icon: "icon-open-mail",
       title: "Your Message",
-      text: "info@appxes.com",
-      href: "info@appxes.com",
+      text: "info@reddot.com",
+      href: "info@reddot.com",
       subHref: "mailto",
     },
     {
       id: 3,
       icon: "icon-pin",
-      title: "LOCATION",
+      title: "Location",
       text: [
         {
-          name: "INDIA",
+          name: "India",
           link: "https://www.google.com/maps",
         },
         {
-          name: "DUBAI",
+          name: "Dubai",
           link: "https://www.google.com/maps",
         },
         {
-          name: "SINGAPORE",
+          name: "Singapore",
           link: "https://www.google.com/maps",
         },
         {
           name: "USA",
           link: "https://www.google.com/maps",
-        },
+        }
       ],
     },
   ],
@@ -58,7 +58,7 @@ const contactTwoData = {
     {
       id: 1,
       icon: faFacebookF,
-      link: "https://facebook.com",
+      link: "https://www.facebook.com/reddottechnologies",
       name: "Facebook",
     },
     {
@@ -67,16 +67,16 @@ const contactTwoData = {
       link: "https://wa.me/+918825528905", // WhatsApp link with your number
       name: "WhatsApp",
     },
-    {
-      id: 3,
-      icon: faTwitter,
-      link: "https://twitter.com",
-      name: "Twitter",
-    },
+    // {
+    //   id: 3,
+    //   icon: faTwitter,
+    //   link: "https://twitter.com",
+    //   name: "Twitter",
+    // },
     {
       id: 4,
       icon: faInstagram,
-      link: "https://instagram.com",
+      link: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==",
       name: "Instagram",
     },
   ],

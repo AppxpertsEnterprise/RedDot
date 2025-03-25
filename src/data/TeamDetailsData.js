@@ -9,10 +9,10 @@ const teamDetailsData = {
     contact: "+918825528905",
     subHref: "tel",
     socialLinks: [
-        { name: "Facebook", href: "https://facebook.com", icon: "fab fa-facebook-f" },
+        { name: "Facebook", href: "https://www.facebook.com/reddottechnologies", icon: "fab fa-facebook-f" },
         { name: "Pinterest", href: "https://pinterest.com", icon: "fab fa-pinterest-p" },
         { name: "Twitter", href: "https://twitter.com", icon: "fab fa-twitter" },
-        { name: "Instagram", href: "https://instagram.com", icon: "fab fa-instagram" }
+        { name: "Instagram", href: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==", icon: "fab fa-instagram" }
     ],
     additionalText: "There are many variations of passages of Lorem Ipsum Fasts There are many variations of passages of Lorem Ipsum Fastsby we are the fast to injected humour,by injected humour, or randomised coved ceilings. are bound to ensue; and equal blame belongs can to bo erwtg mont be fao go not be hie best to those who through weakness .....",
     progress: [

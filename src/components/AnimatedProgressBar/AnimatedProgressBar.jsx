@@ -35,7 +35,7 @@ const AnimatedProgressBar = ({ progress, title, text, service }) => {
                   styles={buildStyles({
                     textSize: "30px",
                     pathTransitionDuration: 0.5,
-                    pathColor: "#ED1B24",
+                    pathColor: "#DF2A16",
                     textColor: "#39484a",
                     backgroundColor: "#c8c8c8",
                   })}

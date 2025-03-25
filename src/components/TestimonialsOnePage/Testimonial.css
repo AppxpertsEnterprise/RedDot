@@ -11,7 +11,7 @@
 .sec-title-two__tagline {
     font-size: 16px;
     font-weight: 700;
-    color: #0277bd;
+    color: #DF2A16;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -23,7 +23,7 @@
 .sec-title-two__title {
     font-size: 35px;
     font-weight: 800;
-    color: #01579b;
+    color: #FF5334;
     text-align: center;
     margin-top: 8px;
 }
@@ -37,7 +37,7 @@
     position: relative;
     overflow: hidden;
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-    border-left: 4px solid #0277bd;
+    border-left: 4px solid #DF2A16;
     max-width: 300px;
     margin: auto;
 }
@@ -57,7 +57,7 @@
 
 .testimonials-card__quote {
     font-size: 35px;
-    color: #0277bd;
+    color: #DF2A16;
     margin-bottom: 15px;
 }
 
@@ -72,13 +72,13 @@
 .testimonials-card__name {
     font-size: 18px;
     font-weight: 700;
-    color: #01579b;
+    color: #FF5334;
     margin-bottom: 6px;
 }
 
 .testimonials-card__designation {
     font-size: 14px;
-    color: #0277bd;
+    color: #DF2A16;
     margin-bottom: 12px;
     font-style: italic;
 }

@@ -10,13 +10,13 @@ const mainSliderOneData = [
         id: 1,
         shape,
         bg: bg1,
-        subTitle: "Welcome to Reddot Technologies!",
+        subTitle: "Welcome to RedDot Technologiess!",
         title: "Innovate Your Business<br> with Our Tech Soluti<span>o</span>ns",
         text: "Empowering enterprises with advanced software development services tailored to meet your business needs.",
         social: [
-            { id: 1, icon: faInstagram, link: "https://instagram.com/Reddot.solution", name: "Instagram" },
+            { id: 1, icon: faInstagram, link: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==/RedDot.solution", name: "Instagram" },
             { id: 2, icon: faWhatsapp, link: "https://wa.me/+918825528905", name: "WhatsApp" },
-            { id: 3, icon: faFacebookF, link: "https://facebook.com/AppXes", name: "Facebook" },
+            { id: 3, icon: faFacebookF, link: "https://www.facebook.com/reddottechnologies/reddot", name: "Facebook" },
         ],
         floatingText: "Innovate"
     },
@@ -24,13 +24,13 @@ const mainSliderOneData = [
         id: 2,
         shape,
         bg: bg2,
-        subTitle: "Welcome to Reddot Technologies!",
+        subTitle: "Welcome to RedDot Technologiess!",
         title: "Custom Solutions<br> to Drive Growth",
         text: "Transform your ideas into powerful software solutions that scale with your business.",
         social: [
-            { id: 1, icon: faInstagram, link: "https://instagram.com/Reddot.solution", name: "Instagram" },
+            { id: 1, icon: faInstagram, link: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==/RedDot.solution", name: "Instagram" },
             { id: 2, icon: faWhatsapp, link: "https://wa.me/+918825528905", name: "WhatsApp" },
-            { id: 3, icon: faFacebookF, link: "https://facebook.com/AppXes", name: "Facebook" },
+            { id: 3, icon: faFacebookF, link: "https://www.facebook.com/reddottechnologies/reddot", name: "Facebook" },
         ],
         floatingText: "Grow"
     },
@@ -38,13 +38,13 @@ const mainSliderOneData = [
         id: 3,
         shape,
         bg: bg3,
-        subTitle: "Welcome to Reddot Technologies!",
+        subTitle: "Welcome to RedDot Technologiess!",
         title: "End-to-End<br> Software Development",
         text: "Delivering next-generation IT solutions for startups and enterprises with creativity and precision.",
         social: [
-            { id: 1, icon: faInstagram, link: "https://instagram.com/Reddot.solution", name: "Instagram" },
+            { id: 1, icon: faInstagram, link: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==/RedDot.solution", name: "Instagram" },
             { id: 2, icon: faWhatsapp, link: "https://wa.me/88255 28905", name: "WhatsApp" },
-            { id: 3, icon: faFacebookF, link: "https://facebook.com/AppXe", name: "Facebook" },
+            { id: 3, icon: faFacebookF, link: "https://www.facebook.com/reddottechnologies/AppXe", name: "Facebook" },
         ],
         floatingText: "Build"
     }

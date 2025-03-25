@@ -18,7 +18,7 @@ const HeaderSevenSingle = () => {
             <Container >
                 <div className="main-header-seven__inner">
                     <div className="main-header-seven__logo">
-                        <Link href='/Reddot'>
+                        <Link href='/RedDot'>
                             <Image
                                 src={logo6}
                                 alt='Tolak HTML'

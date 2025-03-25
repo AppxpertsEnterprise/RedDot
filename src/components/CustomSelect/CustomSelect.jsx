@@ -29,11 +29,11 @@ const customStyle = {
 
         color: state.isSelected ? "#fff" : "var(--tolak-text, #636363)",
         padding: "14px 30px",
-        backgroundColor: state.isSelected ? "var(--tolak-base, #ED1B24)" : "var(--tolak-gray, #ecf2fc)",
+        backgroundColor: state.isSelected ? "var(--tolak-base, #DF2A16)" : "var(--tolak-gray, #ecf2fc)",
         transition: "all 0.4s ease",
         cursor: "pointer",
         "&:hover": {
-            backgroundColor: "var(--tolak-base, #ED1B24)",
+            backgroundColor: "var(--tolak-base, #DF2A16)",
             color: "#fff"
         },
         fontSize: 16,

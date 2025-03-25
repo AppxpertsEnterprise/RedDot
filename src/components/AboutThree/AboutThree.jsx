@@ -128,10 +128,10 @@ const AboutThree = () => {
 
                   </Col>
                 </Row>
-                <div className='about-three__content__quote'>{contQuote}</div>
+                <div style={{color:"#DF2A16"}} className='about-three__content__quote'>{contQuote}</div>
                 <Row>
                   <Col md={5}>
-                    <div className='about-three__content__btn'>
+                    {/* <div className='about-three__content__btn'>
                       <div
                         style={{ cursor: "pointer" }}
                         onClick={() => setOpen(true)}
@@ -141,19 +141,19 @@ const AboutThree = () => {
                         <span className='video-popup__btn-ripple'></span>
                       </div>
                       Watcing video
-                    </div>
+                    </div> */}
                   </Col>
-                  <Col lg={7}>
+                  {/* <Col lg={7}>
                     <div className='about-three__content__author'>
                       <div className='about-three__content__author__image'>
                         <Image src={author} alt='tolak' />
                       </div>
-                      {/* <Image src={aboutSign} alt='tolak' /> */}
+                      <Image src={aboutSign} alt='tolak' /> 
                       <p className='about-three__content__author__text'>
                         {authorText}
                       </p>
                     </div>
-                  </Col>
+                  </Col> */}
                 </Row>
               </div>
             </Col>

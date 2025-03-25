@@ -19,9 +19,9 @@ const FooterDemo = () => {
         <footer className="main-footer">
             <div className="main-footer__bg" style={{ backgroundImage: `url(${bgImage.src})` }}>
             </div>
-            <div className="main-footer__shape" style={{ backgroundImage: `url(${shapeImage.src})` }}>
+            {/* <div className="main-footer__shape" style={{ backgroundImage: `url(${shapeImage.src})` }}>
 
-            </div>
+            </div> */}
             <div className="container text-center">
                 <h2 className="main-footer__title">{title}</h2>
                 <p className="main-footer__text">{text}</p>

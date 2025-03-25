@@ -33,7 +33,7 @@ export default function RootLayout({ children }) {
 
   useEffect(() => {
 
-    if (pathname === "/Reddot-dark" || pathname === "/home2-dark" || pathname === "/home3-dark" || pathname === "/home4-dark") {
+    if (pathname === "/RedDot-dark" || pathname === "/home2-dark" || pathname === "/home3-dark" || pathname === "/home4-dark") {
 
       setThemeState("dark");
     } else {

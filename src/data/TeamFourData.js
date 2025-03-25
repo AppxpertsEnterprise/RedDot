@@ -13,10 +13,10 @@ const teamFourData = {
             name: "Donald Martinez",
             designation: "Founder",
             socialLinks: [
-                { name: "facebook", href: "https://facebook.com", icon: "fab fa-facebook-f" },
+                { name: "facebook", href: "https://www.facebook.com/reddottechnologies", icon: "fab fa-facebook-f" },
                 { name: "pinterest", href: "https://pinterest.com", icon: "fab fa-pinterest-p" },
                 { name: "twitter", href: "https://twitter.com", icon: "fab fa-twitter" },
-                { name: "instagram", href: "https://instagram.com", icon: "fab fa-instagram" },
+                { name: "instagram", href: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==", icon: "fab fa-instagram" },
             ],
             href: "team-details"
         },
@@ -26,10 +26,10 @@ const teamFourData = {
             name: "Gregory Corson",
             designation: "Manager",
             socialLinks: [
-                { name: "facebook", href: "https://facebook.com", icon: "fab fa-facebook-f" },
+                { name: "facebook", href: "https://www.facebook.com/reddottechnologies", icon: "fab fa-facebook-f" },
                 { name: "pinterest", href: "https://pinterest.com", icon: "fab fa-pinterest-p" },
                 { name: "twitter", href: "https://twitter.com", icon: "fab fa-twitter" },
-                { name: "instagram", href: "https://instagram.com", icon: "fab fa-instagram" },
+                { name: "instagram", href: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==", icon: "fab fa-instagram" },
             ],
             href: "team-details"
         },
@@ -39,10 +39,10 @@ const teamFourData = {
             name: "Joyce Stroup",
             designation: "Developer",
             socialLinks: [
-                { name: "facebook", href: "https://facebook.com", icon: "fab fa-facebook-f" },
+                { name: "facebook", href: "https://www.facebook.com/reddottechnologies", icon: "fab fa-facebook-f" },
                 { name: "pinterest", href: "https://pinterest.com", icon: "fab fa-pinterest-p" },
                 { name: "twitter", href: "https://twitter.com", icon: "fab fa-twitter" },
-                { name: "instagram", href: "https://instagram.com", icon: "fab fa-instagram" },
+                { name: "instagram", href: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==", icon: "fab fa-instagram" },
             ],
             href: "team-details"
         },
@@ -52,10 +52,10 @@ const teamFourData = {
             name: "Mark Bradley",
             designation: "Designer",
             socialLinks: [
-                { name: "facebook", href: "https://facebook.com", icon: "fab fa-facebook-f" },
+                { name: "facebook", href: "https://www.facebook.com/reddottechnologies", icon: "fab fa-facebook-f" },
                 { name: "pinterest", href: "https://pinterest.com", icon: "fab fa-pinterest-p" },
                 { name: "twitter", href: "https://twitter.com", icon: "fab fa-twitter" },
-                { name: "instagram", href: "https://instagram.com", icon: "fab fa-instagram" },
+                { name: "instagram", href: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==", icon: "fab fa-instagram" },
             ],
             href: "team-details"
         },

@@ -18,9 +18,9 @@ const mainSliderTwoData = {
 
     ],
     socials: [
-       { id: 1, icon: faInstagram, link: "https://instagram.com/Reddot.solution", name: "Instagram" },
+       { id: 1, icon: faInstagram, link: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==/RedDot.solution", name: "Instagram" },
                    { id: 2, icon: faWhatsapp, link: "https://wa.me/+918825528905", name: "WhatsApp" },
-                   { id: 3, icon: faFacebookF, link: "https://facebook.com/AppXes", name: "Facebook" },
+                   { id: 3, icon: faFacebookF, link: "https://www.facebook.com/reddottechnologies/reddot", name: "Facebook" },
     ],
     carouselData: [
         { id: 1, shape: shape1, bg: bg1 },

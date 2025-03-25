@@ -36,7 +36,7 @@ const HeaderSingle = () => {
         <div className="main-header__inner">
           <div className="main-header__logo">
             {/* Choose the correct homepage link */}
-            <Link href="/Reddot">
+            <Link href="/RedDot">
               <Image
                 src={main_logo}
                 alt="Tolak HTML"

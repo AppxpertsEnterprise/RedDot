@@ -22,9 +22,9 @@ import HeaderCloned from "@/components/Header/HeaderCloned";
 
 
 export const metadata = {
-  title: "Reddot Technologies",
+  title: "RedDot Technologies",
   description:
-    "Reddot is a one-stop solution offering a wide range of services, including Software Development, Digital Marketing, Branding, and Resource Outsourcing.",
+    "RedDot is a one-stop solution offering a wide range of services, including Software Development, Digital Marketing, Branding, and Resource Outsourcing.",
 };
 
 
