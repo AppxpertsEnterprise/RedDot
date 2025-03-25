@@ -225,8 +225,8 @@ const headerData = {
     {
       id: 1,
       icon: faEnvelope,
-      content: "info@RedDot.com", // Updated email
-      subHref: "mailto:info@RedDot.com",
+      content: "appxperts.reddot@gmail.com", // Updated email
+      subHref: "mailto:appxperts.reddot@gmail.com",
     },
     {
       id: 2,
