@@ -8,7 +8,7 @@ import PageHeader from '@/components/PageHeader/PageHeader';
 
 import React from 'react';
 export const metadata = {
-    title: "Reddot Technologies.",
+    title: "RedDot Technologies.",
     // description:
     //     "Tolak is a modern NextJS Template for Business, It Solution, Corporate, Agency, Portfolio shops. The template perfectly fits Beauty Spa, Salon, and Wellness Treatments websites and businesses.",
 };

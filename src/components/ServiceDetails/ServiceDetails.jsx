@@ -76,7 +76,7 @@ const ServiceDetails = () => {
                                 ))}
                                 {lists.map(({ id, items }) => (
                                     <Col md={6} key={id}>
-                                        <ul className="list-unstyled service-details__list">
+                                        <ul style={{color:"black"}}className="list-unstyled service-details__list">
                                             {items.map((item, idx) => (
                                                 <li key={idx}>
                                                     <i className="fas fa-check-circle"></i>
@@ -87,9 +87,9 @@ const ServiceDetails = () => {
                                     </Col>
                                 ))}
                             </Row>
-                            <p className="service-details__text">
+                            {/* <p className="service-details__text">
                                 <span>Solution:</span> {solutionText}
-                            </p>
+                            </p> */}
                         </Col>
                         <Col lg={6}>
                             <div className="service-details__content__image">

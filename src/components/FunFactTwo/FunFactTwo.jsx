@@ -20,9 +20,9 @@ const FunFactTwo = () => {
                                 <div className="funfact-two__content">
                                     <h3 className="funfact-two__count">{counterOn && (
                                         <CountUp className='count-text' end={count} duration={1.5} />
-                                    )} k+</h3>
+                                    )} </h3>
 
-                                    <p className="funfact-two__text">{text}</p>
+                                    <p style={{color:"#DF2A16"}} className="funfact-two__text">{text}</p>
                                 </div>
                             </li>)
                         }

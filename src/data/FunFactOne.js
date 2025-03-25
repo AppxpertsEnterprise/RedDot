@@ -20,7 +20,7 @@ const funFactOneData = {
 
       text: 'Projects Successfully Delivered',
 
-      count: "26",
+      count: "250",
       identity: "funfact-one__item--two"
     },
     {
@@ -28,7 +28,7 @@ const funFactOneData = {
 
       text: 'Dedicated 24/7 Customer Support',
 
-      count: "26",
+       count: "26",
       identity: "funfact-one__item--three"
     }
   ],
@@ -36,13 +36,13 @@ const funFactOneData = {
     {
       id: 1,
 
-      header: 'Why Choose Reddot for Software Solutions?',
+      header: 'Why Choose RedDot for Software Solutions?',
       content: "We provide cutting-edge, scalable, and tailor-made software solutions that enhance operational efficiency and drive business success."
     },
     {
       id: 2,
       header: 'Which Industries Do We Serve?',
-      content: "Reddot specializes in solutions for diverse industries, including retail, healthcare, education, finance, and enterprise-level businesses."
+      content: "RedDot specializes in solutions for diverse industries, including retail, healthcare, education, finance, and enterprise-level businesses."
     },
     {
       id: 3,

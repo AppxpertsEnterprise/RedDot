@@ -10,7 +10,7 @@ import React from 'react';
 
 
 export const metadata ={
-    title: "Reddot Technologies.",
+    title: "RedDot Technologies.",
    
 };
 

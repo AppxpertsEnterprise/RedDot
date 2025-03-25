@@ -25,10 +25,10 @@ const CtaOne = ({ rtl, page }) => {
     return (
         <section className={`${page ? "cta-one--reverse" : "cta-one"}`}>
             <div className="cta-one__bg">
-  {/*               {
+                {
                     page ? null : <div className="cta-one__bg__shape-left" style={{ backgroundImage: `url(${rtl ? shapeLeftRtl.src : shapeLeft.src})` }}></div>
 
-                } */}
+                }
                 <div className="cta-one__bg__shape" style={{ backgroundImage: `url(${rtl ? shapeRtl.src : page ? shapeRtl.src : shape.src})` }}></div>
             </div>
             <Container >
@@ -51,9 +51,9 @@ const CtaOne = ({ rtl, page }) => {
                                 <Image src={author2} alt="tolak" />
                                 <Image src={author3} alt="tolak" /> */}
 
-                                <Link className="cta-one__author__rm" href={href}>More <span className="fas fa-arrow-right"></span></Link>
+                                <Link className="cta-one__author__rm" href={href}>Contact Us<span className="fas fa-arrow-right"></span></Link>
                             </div>
-                            <p className="cta-one__content__text">{conText} <Link href={href}>{conLinkText}</Link></p>
+                            {/* <p className="cta-one__content__text">{conText} <Link href={href}>{conLinkText}</Link></p> */}
                         </div>
                     </Col>
                 </Row>

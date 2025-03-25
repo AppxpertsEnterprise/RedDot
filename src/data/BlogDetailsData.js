@@ -6,6 +6,7 @@ import post1 from "@/assets/images/blog/lp-1-3.jpg";
 import post2 from "@/assets/images/blog/lp-1-4.jpg";
 import post3 from "@/assets/images/blog/lp-1-5.jpg";
 
+
 const sidebarData = {
   categories: [
     { href: "/blog-details-right", text: "Business", count: 8 },
@@ -22,19 +23,19 @@ const sidebarData = {
   ],
   recentPosts: [
     {
-      image: { src: post1, alt: "Reddot" },
+      image: { src: post1, alt: "RedDot" },
       date: "Aug 10, 2023",
       title: "We play chimney pot Chip bonne.",
       href: "/blog-details-right",
     },
     {
-      image: { src: post2, alt: "Reddot" },
+      image: { src: post2, alt: "RedDot" },
       date: "Aug 10, 2023",
       title: "Get deep knowledge of your business",
       href: "/blog-details-right",
     },
     {
-      image: { src: post3, alt: "Reddot" },
+      image: { src: post3, alt: "RedDot" },
       date: "Aug 10, 2023",
       title: "Innovative digital solutions",
       href: "/blog-details-right",
@@ -51,15 +52,15 @@ export const blogDetailsData = {
       href: "/blog-grid",
     },
     date: {
-      author: "Reddot Solutions",
+      author: "RedDot Solutions",
       date: "Jan 30, 2025",
       href: "/blog-grid",
     },
   },
   title:
-    "Reddot Technologies: Your One-Stop Digital Partner",
+    "RedDot Technologiess: Your One-Stop Digital Partner",
   paragraphs: [
-    "Reddot is a one-stop solution offering a wide range of services, including Software Development, Digital Marketing, Branding, and Resource Outsourcing.",
+    "RedDot is a one-stop solution offering a wide range of services, including Software Development, Digital Marketing, Branding, and Resource Outsourcing.",
     "We cater to a diverse array of industries, such as Healthcare, Financial Services, Logistics, E-commerce, Wholesale, Retail, Manufacturing, and other key sectors.",
     "With a blend of technical expertise and creativity, we specialize in developing innovative mobile and web applications tailored to meet the unique needs of each industry.",
   ],
@@ -85,28 +86,28 @@ export const blogDetailsData = {
     text:
       "We specialize in delivering innovative software and creative marketing solutions to drive business growth.",
     author: {
-      name: "Reddot Team",
+      name: "RedDot Team",
       designation: "CEO",
       image: authorImage,
       social: [
         {
           name: "Instagram",
-          href: "https://instagram.com/Reddot.solutions",
+          href: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==/RedDot.solutions",
           icon: "fab fa-instagram",
         },
         {
           name: "Facebook",
-          href: "https://facebook.com/AppXes",
+          href: "https://www.facebook.com/reddottechnologies/reddot",
           icon: "fab fa-facebook-f",
         },
         {
           name: "LinkedIn",
-          href: "https://linkedin.com/company/Reddot-enterprise-solutions/",
+          href: "https://linkedin.com/company/RedDot-enterprise-solutions/",
           icon: "fab fa-linkedin",
         },
         {
           name: "Email",
-          href: "mailto:info@appxes.com",
+          href: "mailto:info@reddot.com",
           icon: "fas fa-envelope",
         },
       ],
@@ -117,7 +118,7 @@ export const blogDetailsData = {
       image: commentImage1,
       name: "John Doe",
       date: "January 16, 2025 at 10:45 am",
-      text: "Reddot transformed our business with their tailored software solutions.",
+      text: "RedDot transformed our business with their tailored software solutions.",
       replyHref: "/blog-details-right",
     },
     {

@@ -9,7 +9,7 @@ import PricingOne from '@/components/PricingOne/PricingOne';
 import React from 'react';
 
 export const metadata = {
-    title: "Packages || AppXperts Enterprise Solutions.",
+    title: "Packages || RedDot Technologiess",
     description: "",
 };
 

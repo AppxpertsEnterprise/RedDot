@@ -21,7 +21,7 @@ const teamTwoData = {
         {
           id: 1,
           icon: faFacebookF,
-          link: "https://facebook.com",
+          link: "https://www.facebook.com/reddottechnologies",
           name: "Facebook",
         },
         {
@@ -39,7 +39,7 @@ const teamTwoData = {
         {
           id: 4,
           icon: faInstagram,
-          link: "https://instagram.com",
+          link: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==",
           name: "Instagram",
         },
       ],
@@ -54,7 +54,7 @@ const teamTwoData = {
         {
           id: 1,
           icon: faFacebookF,
-          link: "https://facebook.com",
+          link: "https://www.facebook.com/reddottechnologies",
           name: "Facebook",
         },
         {
@@ -72,7 +72,7 @@ const teamTwoData = {
         {
           id: 4,
           icon: faInstagram,
-          link: "https://instagram.com",
+          link: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==",
           name: "Instagram",
         },
       ],
@@ -87,7 +87,7 @@ const teamTwoData = {
         {
           id: 1,
           icon: faFacebookF,
-          link: "https://facebook.com",
+          link: "https://www.facebook.com/reddottechnologies",
           name: "Facebook",
         },
         {
@@ -105,7 +105,7 @@ const teamTwoData = {
         {
           id: 4,
           icon: faInstagram,
-          link: "https://instagram.com",
+          link: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==",
           name: "Instagram",
         },
       ],
@@ -121,7 +121,7 @@ const teamTwoData = {
         {
           id: 1,
           icon: faFacebookF,
-          link: "https://facebook.com",
+          link: "https://www.facebook.com/reddottechnologies",
           name: "Facebook",
         },
         {
@@ -139,7 +139,7 @@ const teamTwoData = {
         {
           id: 4,
           icon: faInstagram,
-          link: "https://instagram.com",
+          link: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==",
           name: "Instagram",
         },
       ],
@@ -154,7 +154,7 @@ const teamTwoData = {
         {
           id: 1,
           icon: faFacebookF,
-          link: "https://facebook.com",
+          link: "https://www.facebook.com/reddottechnologies",
           name: "Facebook",
         },
         {
@@ -172,7 +172,7 @@ const teamTwoData = {
         {
           id: 4,
           icon: faInstagram,
-          link: "https://instagram.com",
+          link: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==",
           name: "Instagram",
         },
       ],
@@ -187,7 +187,7 @@ const teamTwoData = {
         {
           id: 1,
           icon: faFacebookF,
-          link: "https://facebook.com",
+          link: "https://www.facebook.com/reddottechnologies",
           name: "Facebook",
         },
         {
@@ -205,7 +205,7 @@ const teamTwoData = {
         {
           id: 4,
           icon: faInstagram,
-          link: "https://instagram.com",
+          link: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==",
           name: "Instagram",
         },
       ],

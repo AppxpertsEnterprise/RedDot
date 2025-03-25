@@ -63,9 +63,9 @@ const MainSliderOne = () => {
           {mainSliderOneData.map(({ id, shape, bg, subTitle, title, text, social }) => (
             <div className="item" key={id}>
               <div className="main-slider-one__item">
-                {/* <Tilt className="main-slider-one__shape tolak-tilt" options={defaultOptions}>
+                <Tilt className="main-slider-one__shape tolak-tilt" options={defaultOptions}>
                   <Image src={shape} alt="tolak" />
-                </Tilt> */}
+                </Tilt>
                 <div
                   className="main-slider-one__bg"
                   style={{ backgroundImage: `url(${bg.src})` }}
@@ -138,8 +138,8 @@ const MainSliderOne = () => {
         </div>
 
         <h5 className="main-slider-one__project__number count-box">
-          <ScrollTriggerCount count={1283} />
-          k+
+          <ScrollTriggerCount count={250} />
+          +
         </h5>
         <p className="main-slider-one__project__title">Complete Projects</p>
       </div>

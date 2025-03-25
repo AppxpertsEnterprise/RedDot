@@ -9,7 +9,7 @@ const featureOneData = {
             id: 1,
             icon: "icon-social-care",
             title: "Confidentiality",
-            text: "Reddot takes confidentialy seriously and always makes sure to protect sensitive information.",
+            text: "RedDot takes confidentialy seriously and always makes sure to protect sensitive information.",
             shape: shape1
 
         },
@@ -33,9 +33,9 @@ const featureOneData = {
             id: 4,
             icon: "icon-trophy",
             title: "Authenticity",
-            text: "You can be easily duped by thier assertions that big agencies chanrge exorbitant rates.",
+            text: "You can be easily duped by thier assertions that big agencies change exorbitant rates.",
             title: "Authenticity",
-            text: "You can be easily duped by thier assertions that big agencies chanrge exorbitant rates.",
+            text: "You can be easily duped by thier assertions that big agencies change exorbitant rates.",
 
 
 

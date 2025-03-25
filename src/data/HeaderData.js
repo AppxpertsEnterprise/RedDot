@@ -159,9 +159,9 @@ const navItems = [
 
 
 const social = [
-  { id: 1, icon: faInstagram, link: "https://instagram.com/Reddot.solution", name: "Instagram", target: "_blank" },
+  { id: 1, icon: faInstagram, link: "https://www.instagram.com/reddot.technologies?igsh=MTdwbmJtazI5cnYzaw==/RedDot.solution", name: "Instagram", target: "_blank" },
   { id: 2, icon: faWhatsapp, link: "https://wa.me/+918825528905", name: "WhatsApp", target: "_blank" },
-  { id: 3, icon: faFacebookF, link: "https://facebook.com/AppXes", name: "Facebook", target: "_blank" },
+  { id: 3, icon: faFacebookF, link: "https://www.facebook.com/reddottechnologies/reddot", name: "Facebook", target: "_blank" },
 ];
 
 
@@ -225,25 +225,25 @@ const headerData = {
     {
       id: 1,
       icon: faEnvelope,
-      content: "info@Reddot.com", // Updated email
-      subHref: "mailto:info@Reddot.com",
+      content: "info@RedDot.com", // Updated email
+      subHref: "mailto:info@RedDot.com",
     },
     {
       id: 2,
       icon: faMapMarkerAlt,
-      content: "INDIA",
-      href: "https://www.google.com/maps/place/Reddot+Enterprise+Solutions/@12.9098612,80.1933659,17z/",
+      content: "India",
+      href: "https://www.google.com/maps/place/RedDot+Enterprise+Solutions/@12.9098612,80.1933659,17z/",
     },
     {
       id: 3,
       icon: faMapMarkerAlt,
-      content: "SINGAPORE",
+      content: "Singapore",
       href: "https://www.google.com/maps",
     },
     {
       id: 4,
       icon: faMapMarkerAlt,
-      content: "DUBAI",
+      content: "Dubai",
       href: "https://www.google.com/maps",
     },
     {

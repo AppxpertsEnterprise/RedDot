@@ -8,14 +8,14 @@ import image6 from '@/assets/images/resources/testi-1-6.jpg'
 const testimonialsOnePageData = {
     bg,
     tagLine: "Our testimonial say",
-    title: "What Out Clients Says Company",
+    title: "What Our Clients Says",
     items: [
         {
                    id: 1,
                    image: image1,
                    icon: "icofont-quote-left",
-                   content: "Many designers listen but do not understand. Reddot' staff listens to the organization's heartbeat and designs to the highest quality. We have worked with Logo Design.",
-                   name: "Salsabeel",
+                   content: "Many designers listen but do not understand. RedDot' staff listens to the organization's heartbeat and designs to the highest quality. We have worked with Logo Design.",
+                   name: "MINDGATE",
                    designation: "Founder",
                    rating: ["icofont-star", "icofont-star", "icofont-star", "icofont-star", "icofont-star","icofont-star"]
                },
@@ -24,7 +24,7 @@ const testimonialsOnePageData = {
                    image: image2,
                    icon: "icofont-quote-left",
                    content: "we got our logo to exactly what I desired within days. They were incredible.  I will absolutely back for future (and all) projects. Thank you very much!",
-                   name: "Fortune consultancy",
+                   name: "HALAL INDIA",
                    designation: "Manager",
                    rating: ["icofont-star", "icofont-star", "icofont-star", "icofont-star", "icofont-star","icofont-star"]
                },
@@ -32,8 +32,8 @@ const testimonialsOnePageData = {
                    id: 3,
                    image: image3,
                    icon: "icofont-quote-left",
-                   content: "We appreciate their flexibility and customer-centric approach We have got more followers and increased brand awareness in the market since working with Reddot.",
-                   name: "Bro Go Burgers",
+                   content: "We appreciate their flexibility and customer-centric approach We have got more followers and increased brand awareness in the market since working with RedDot.",
+                   name: "Pan Seas",
                    designation: "Co Founder",
                    rating: ["icofont-star", "icofont-star", "icofont-star", "icofont-star", "icofont-star","icofont-star"]
                },
@@ -42,7 +42,7 @@ const testimonialsOnePageData = {
                    image: image4,
                    icon: "icofont-quote-left",
                    content: "In a short period, we boosted our engagement by 900% and our following by 80% In addition, we improved our content planning processes.",
-                   name: "Petpluz",
+                   name: "SKP",
                    designation: "Customer",
                    rating: ["icofont-star", "icofont-star", "icofont-star", "icofont-star", "icofont-star","icofont-star"]
                },
@@ -50,7 +50,7 @@ const testimonialsOnePageData = {
                    id: 5,
                    image: image5,
                    icon: "icofont-quote-left",
-                   content: "We are really satisfied with the website that Reddot designed for us. It is looking good, clean, easy to navigate, and responsive - everything we asked for.",
+                   content: "We are really satisfied with the website that RedDot designed for us. It is looking good, clean, easy to navigate, and responsive - everything we asked for.",
                    name: "TSL Nutraceuticals",
                    designation: "Reviwers",
                    rating: ["icofont-star", "icofont-star", "icofont-star", "icofont-star", "icofont-star","icofont-star"]
@@ -59,8 +59,8 @@ const testimonialsOnePageData = {
                    id: 6,
                    image: image2,
                    icon: "icofont-quote-left",
-                   content: "Reddot is the best Instagram marketing service I've ever used. My business has grown exponentially since I started working with Reddot. ",
-                   name: "Toni & Guy",
+                   content: "RedDot is the best Instagram marketing service I've ever used. My business has grown exponentially since I started working with RedDot. ",
+                   name: "INDIAN RESTAURANT",
                    designation: "Co Founder",
                    rating: ["icofont-star", "icofont-star", "icofont-star", "icofont-star", "icofont-star","icofont-star"]
                },
